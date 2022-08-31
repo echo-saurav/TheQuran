@@ -1,6 +1,6 @@
-baseURL = ''
+baseURL = 'https://echo-saurav.github.io/TheQuran/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Quran'
 theme = 'hugo-book'
 publishDir = 'docs'
 
